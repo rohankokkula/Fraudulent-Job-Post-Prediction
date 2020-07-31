@@ -2,6 +2,8 @@
 
 <img align="center" src="output_8_2.png">
 
+## Big Data Analysis Project on predicting fraud job postings
+
 1. Visualizing **Missing Values**
 2. **WORDCLOUD** on Job Titles
 3. **Splitting** Locations into Country, State & City
